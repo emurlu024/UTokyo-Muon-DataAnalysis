@@ -1,9 +1,10 @@
 **Format**
 - All of these notebooks are written in Python
 - They are on the Google Colab platform
-- All of them are backed up onto GitHub and Google Drive
 - Details about each run are labeled at the top of the file
-- At the bottom is a blurb about inital observations
+- At the bottom is a blurb about initial observations
+- All of them are backed up onto GitHub and Google Drive
+- Drive Link: https://drive.google.com/drive/folders/1ihhqRJu0lEWyNbjS8_H7Vm-zxOaIDlKA?usp=drive_link 
 
 **Data Analysis**
 - Actual data analysis and conclusion can be found in a Google Doc
